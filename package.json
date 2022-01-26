@@ -1,0 +1,33 @@
+{
+  "name": "teams_ss_program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "nodemonConfig": {
+    "ignore": [
+      "compare.json",
+      ".png"
+    ]
+  },
+  "scripts": {
+    "start": "nodemon -r esm index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "edge-paths": "^2.2.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.2",
+    "got": "^12.0.1",
+    "graceful-fs": "^4.2.9",
+    "jimp": "^0.16.1",
+    "looks-same": "^7.3.0",
+    "node-datetime": "^2.1.2",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^13.1.1",
+    "resemblejs": "^4.0.1"
+  }
+}
