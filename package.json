@@ -26,7 +26,7 @@
     "looks-same": "^7.3.0",
     "node-datetime": "^2.1.2",
     "nodemon": "^2.0.15",
-    "puppeteer": "^10.4.0",
+    "puppeteer": "^6.0.0",
     "puppeteer-core": "^13.1.1",
     "resemblejs": "^4.0.1"
   }
