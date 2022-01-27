@@ -1,0 +1,2 @@
+# Auto-notes-program-
+Add the site, username, password in the config.json file. After that login to the website, join the video class. And it will take the screenshots every  few seconds (you can configure the time in config.json). After a few filtering and comparing the previous screenshot with another it will put the unique note in the final_image folder. Will make another version soon which will send those images in discord so you don't have to store them on your harddrive.
